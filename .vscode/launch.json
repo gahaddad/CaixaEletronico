@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Caixa",
+            "request": "launch",
+            "mainClass": "Caixa",
+            "projectName": "CaixaEletronico_b3346a8f"
+        },
+        {
+            "type": "java",
             "name": "Launch Terminal",
             "request": "launch",
             "mainClass": "Terminal",
@@ -22,8 +29,7 @@
             "name": "Launch caixaEletronico",
             "request": "launch",
             "mainClass": "caixaEletronico",
-            "projectName": "CaixaEletronico_b3346a8f",
-            
+            "projectName": "CaixaEletronico_b3346a8f"
         }
     ]
 }
